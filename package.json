@@ -22,7 +22,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:webpro/release-it.git"
+    "url": "git@github.com:ntoggle/release-it.git"
   },
   "bin": "./bin/release.js",
   "main": "./lib/release.js",
